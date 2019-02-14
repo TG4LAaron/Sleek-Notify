@@ -1,2 +1,2 @@
 # Sleek-Notify
-Better notifications for windows/mac 
+Better notifications for windows/mac/linux
